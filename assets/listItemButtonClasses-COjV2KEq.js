@@ -1,1 +1,0 @@
-import{t as e}from"./generateUtilityClass-DUL8zXGJ.js";import{t}from"./generateUtilityClasses-DFWpRkIR.js";function n(t){return e(`MuiListItemButton`,t)}var r=t(`MuiListItemButton`,[`root`,`focusVisible`,`dense`,`alignItemsFlexStart`,`disabled`,`divider`,`gutters`,`selected`]);export{r as n,n as t};

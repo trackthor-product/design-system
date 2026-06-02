@@ -1,1 +1,0 @@
-var e=``+new URL(`tracktor-pricing-CpoUVVIi.svg`,import.meta.url).href;export{e as default};

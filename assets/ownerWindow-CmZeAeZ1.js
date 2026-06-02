@@ -1,1 +1,0 @@
-import{t as e}from"./ownerDocument-IM3dRMlk.js";function t(t){return e(t).defaultView||window}export{t};
